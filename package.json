@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ine-es",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "INE Spain (Instituto Nacional de Estadística) Tempus3 JSON API MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-b281203f8ca2d760b29e0ff93835ad570dbd823e9e59cf289f16adba3cfa0dcd",
-    "sourceCommit": "70cd53748fc9f9a43ed3681d751bfa96e701efd2"
+    "sourceHash": "v1-1b4050ede4640190c3371ecbfd34be6b5789b9d7a6726c1f76372acc29e313b9",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
