@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ine-es",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "INE Spain (Instituto Nacional de Estadística) Tempus3 JSON API MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "ine-es",
     "gatewaySlug": "ine-es",
-    "sourceHash": "v1-951751f7f0fe61417134f0e90f35ad4a057953e5912b3041cfd9a939d6593270",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-aafd93d3d67112d3e17973ee8d5ddc58aebac5e1490baa443ea9cd230f5fe411",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
